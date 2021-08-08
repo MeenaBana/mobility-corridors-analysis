@@ -36,7 +36,9 @@ Following datasets are currently available:
 
 ![Bybanen corridors geometry ](./Bybanen_corridors_visualization.png)
 - Read and wrote geodata on Postgres.
-- Defined shapefiles and read shapefiles in Kepler map to get a map view of geometry data for line's corridors.
+- Defined shapefiles and read shapefiles in Kepler map to get a map view of geometry data for line's corridors, for example:
+
+
 ![Map view of corridors geometry ](./Geodata_map_view.png)
 
 - Analysed and visualized average and total passengers counts for each segment of the Bybanen line.
