@@ -34,12 +34,12 @@ Following datasets are currently available:
 ## Corridors Analysis
 - Defined geometry and visualized geodata, for example, Bybanen corridors for a line and stops within a certain radius with average onboard passengers at each segment.
 
-![Bybanen corridors geometry ](./Bybanen_corridors_visualization.png)
+![Bybanen corridors geometry ](./pictures/Bybanen_corridors_visualization.png)
 - Read and wrote geodata on Postgres.
 - Defined shapefiles and read shapefiles in Kepler map to get a map view of geometry data for line's corridors, for example:
 
 
-![Map view of corridors geometry ](./Geodata_map_view.png)
+![Map view of corridors geometry ](./pictures/Geodata_map_view.png)
 
 - Analysed and visualized average and total passengers counts for each segment of the Bybanen line.
 - Defined period by dividing a day into different parts and calculated average onboard for the line in a different part of the day and plotted period data.
